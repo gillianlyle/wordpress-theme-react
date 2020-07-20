@@ -1,2 +1,2 @@
 # wordpress-theme-react
-First attempt at creating a wordpress theme using React
+Using the [Frontity JSNation Workshop](https://github.com/frontity-demos/jsnation-workshop), here is my first attempt at creating a wordpress theme with React. 
